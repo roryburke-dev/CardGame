@@ -1,0 +1,40 @@
+namespace Enums
+{
+    public enum EAbility 
+    {
+        Acrobatics,
+        Charge,
+        ConjureWeapon,
+        CrestfallenFrenzy,
+        EnchantWeapon,
+        Fissure,
+        Icebolt,
+        IllusionCreature,
+        ManaConvert,
+        ManaSteal,
+        Taunt,
+        Thunderbolt,
+        MoonlitHowl,
+        SunbakedRoar,
+        WarArt,
+        Attune,
+        Awaken,
+        ChainLightning,
+        CritChance,
+        Frenzy,
+        Frostbite,
+        LimpidGreyEyes,
+        Lockdown,
+        BorealGaze,
+        Mark,
+        Nimble,
+        Parry,
+        Protect,
+        Scry,
+        Slide,
+        Slow,
+        SplinterShot,
+        Dodge,
+        Equip
+    }
+}

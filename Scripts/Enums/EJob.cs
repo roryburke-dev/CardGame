@@ -1,0 +1,31 @@
+namespace Enums
+{
+    public enum EJob 
+    {
+        Beast,
+        Guardian,
+        Ovate,
+        Bard,
+        Mage,
+        Elementalist,
+        Spellsword,
+        Cleric,
+        BeastRider,
+        Assassin,
+        Theif,
+        Acrobat,
+        Gunner,
+        Raider,
+        Ranger,
+        Dragoon,
+        Berserker,
+        Blacksmith,
+        Ridire,
+        Ceithearn,
+        Artificer,
+        Warlock,
+        Calamity,
+        Banshee,
+        Siren
+    }
+}
